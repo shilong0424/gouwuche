@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca357b4a-6a31-4754-827f-20e0a739f1bb" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/goods/goodscomment.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/goods/goodsdesc.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/goods/goodsinfo.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/subcom/inputNumber.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/subcom/slider.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/kits/localSG.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/kits/vm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.vue" afterPath="$PROJECT_DIR$/src/App.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Home.vue" afterPath="$PROJECT_DIR$/src/components/Home.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/goods/goodslist.vue" afterPath="$PROJECT_DIR$/src/components/goods/goodslist.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.js" afterPath="$PROJECT_DIR$/src/main.js" />
-    </list>
+    <list default="true" id="ca357b4a-6a31-4754-827f-20e0a739f1bb" name="默认的" comment="" />
     <ignored path="shop.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -253,12 +240,12 @@
       <updated>1506428073520</updated>
       <workItem from="1506497719124" duration="3771000" />
       <workItem from="1506560186001" duration="8380000" />
-      <workItem from="1506600071956" duration="5375000" />
+      <workItem from="1506600071956" duration="5557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27477000" />
+    <option name="totallyTimeSpent" value="27659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
